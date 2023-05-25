@@ -254,9 +254,9 @@ input[type="radio"]:checked~.box span {
     @apply bg-transparent text-body-color;
 }
 
-.themeSwitcherTwo input:checked~.dark {
+/* .themeSwitcherTwo input:checked~.dark {
     @apply bg-gray text-primary;
-}
+} */
 
 .themeSwitcherTwo input:checked~.slider {
     @apply bg-black;
@@ -292,9 +292,9 @@ input[type="radio"]:checked~.box span {
     @apply opacity-100;
 }
 
-.box-select-1:checked~label div.user-box {
+/* .box-select-1:checked~label div.user-box {
     @apply bg-gray-2;
-}
+} */
 
 .select-list:checked~label {
     @apply border-primary text-primary;
