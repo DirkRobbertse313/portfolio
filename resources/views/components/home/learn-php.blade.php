@@ -23,6 +23,6 @@
             variant="red"
             target="_blank"
         >
-            Watch my PHP on YouTube
+            PHP for Beginners on YouTube
         </x-button-link>
 </x-call-to-action>

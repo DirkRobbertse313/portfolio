@@ -8,8 +8,9 @@
                     <p
                         class="text-base mb-8 max-w-[520px]"
                     >
-                        My name is <span class="rounded-md text-amber-600">Dirk Robbertse</span>,<br>
-                        I am a developer with 1+ years of experience. <br />
+                    <span class="rounded-md text-2xl ">My Name is</span>
+                    <span class="rounded-md text-amber-500 text-3xl">Dirk Robbertse,</span><br>
+                        I have been working as a software developer for over a year <br />
                         I love sharing my knowledge to others, that's why I created a
                         <a
                             class="text-primary dark:text-gray-900 font-bold no-underline hover:underline underline-offset-2 decoration-2 decoration-primary"
